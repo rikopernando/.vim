@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/Users/rikopernando/workspace/efishery/monorepo-smartfarm/packages/apps/www-dashboard-user/src/features/cultivation-records/pages/sampling'
+let g:netrw_dirhist_6='/Users/rikopernando'
+let g:netrw_dirhist_5='/Users/rikopernando/workspace/playground/react-native/AwesomeProject'
+let g:netrw_dirhist_4='/Users/rikopernando/workspace/efishery/monorepo-smartfarm/packages/apps/www-dashboard-user/src/features/cultivation-records/pages/history'
+let g:netrw_dirhist_3='/Users/rikopernando/workspace/efishery/monorepo-smartfarm/packages/apps/www-dashboard-user/src/features/cultivation-records/pages/cycle-report'
+let g:netrw_dirhist_2='/Users/rikopernando/workspace/efishery/monorepo-smartfarm/packages/apps/www-dashboard-user/src/features/cultivation-records/pages'
+let g:netrw_dirhist_1='/Users/rikopernando/workspace/efishery/monorepo-smartfarm/packages/apps/www-dashboard-user/src/features/cultivation-records'
+let g:netrw_dirhist_0='/Users/rikopernando/workspace/efishery/monorepo-smartfarm/packages/apps/www-dashboard-user/src/features'
+let g:netrw_dirhist_9='/Users/rikopernando/workspace/efishery/monorepo-smartfarm/packages/apps/www-dashboard-user/src'
+let g:netrw_dirhist_8='/Users/rikopernando/workspace/efishery/monorepo-smartfarm/packages/apps/www-dashboard-user'

@@ -1,0 +1,21 @@
+{
+  "eslint.autoFixOnSave": true,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "sass",
+    "scss",
+    "markdown",
+    "html",
+    "json",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "javascript.autoClosingTags": true,
+  "typescript.autoClosingTags": true,
+  "suggest.noselect": false,
+  "tsserver.formatOnType": true,
+  "coc.preferences.formatOnType": true,
+  "codeLens.enable": false
+}
